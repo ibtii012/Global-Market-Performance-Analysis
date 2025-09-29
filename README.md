@@ -47,7 +47,7 @@ Explore the interactive global market analysis dashboard here:
 
 ## Report
 The full written report is available in:  
--[Business Analytics Report (PDF)](Business_Analytics_Report.pdf) 
+[Business Analytics Report (PDF)](Business_Analytics_Report.pdf) 
 
 ---
 
